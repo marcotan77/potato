@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Tan
+Build-Jdk: 1.8.0_241
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.kt
+Main-Class: ${start-class}
+

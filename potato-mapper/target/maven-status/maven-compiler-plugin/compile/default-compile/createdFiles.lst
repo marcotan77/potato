@@ -1,0 +1,17 @@
+com\kt\base\BaseMapper.class
+com\kt\mapper\OrderMapperCustom.class
+com\kt\mapper\CategoryCustomMapper.class
+com\kt\mapper\ItemsParamMapper.class
+com\kt\mapper\CategoryMapper.class
+com\kt\mapper\CarouselMapper.class
+com\kt\mapper\ItemsCustomMapper.class
+com\kt\mapper\ItemsImgMapper.class
+com\kt\mapper\UserAddressMapper.class
+com\kt\mapper\OrderStatusMapper.class
+com\kt\mapper\ItemsSpecMapper.class
+com\kt\mapper\OrdersMapper.class
+com\kt\mapper\ItemsCommentsMapper.class
+com\kt\mapper\ItemsMapper.class
+com\kt\mapper\OrderItemsMapper.class
+com\kt\mapper\ItemsCommentsMapperCustom.class
+com\kt\mapper\UsersMapper.class

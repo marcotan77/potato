@@ -1,0 +1,10 @@
+# web 访问端口号
+
+server:
+  port: 80
+
+# 配置数据源信息
+spring:
+  datasource: # 数据源的相关配置
+    url: jdbc:mysql://192.168.110.126:3306/potato?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&useSSL=false
+    password: root

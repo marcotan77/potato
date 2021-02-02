@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "file",
+      "type": "com.kt.resource.FileUpload",
+      "sourceType": "com.kt.resource.FileUpload"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.image-server-url",
+      "type": "java.lang.String",
+      "sourceType": "com.kt.resource.FileUpload"
+    },
+    {
+      "name": "file.image-user-face-location",
+      "type": "java.lang.String",
+      "sourceType": "com.kt.resource.FileUpload"
+    }
+  ],
+  "hints": []
+}
